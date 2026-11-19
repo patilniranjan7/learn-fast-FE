@@ -1,0 +1,21 @@
+export const palette = {
+  primary: { main: '#264e3d' },
+  background: { default: '#fcfcf9', paper: '#ffffff' },
+  text: { primary: '#243c34', secondary: '#798575' },
+  brand: {
+    dark: '#193e35',
+    onDark: '#f6f7ec',
+    muted: '#b9cdc2',
+    accent: '#d8e7ad',
+    highlight: '#c7dba0',
+    orbit: '#8ca59122',
+    card: '#f3f2e8',
+    paper: '#fffef4',
+    ink: '#284439',
+    subtle: '#758274',
+    line: '#dce1d4',
+    tile: '#e4e8d7',
+    insight: '#dfebbc',
+    shadow: '#0b291a30',
+  },
+};
